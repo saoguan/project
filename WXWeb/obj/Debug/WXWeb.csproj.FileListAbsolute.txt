@@ -1,0 +1,5 @@
+H:\project\WXMS\WXWeb\bin\WXWeb.dll
+H:\project\WXMS\WXWeb\bin\WXWeb.pdb
+H:\project\WXMS\WXWeb\obj\Debug\WXWeb.csprojResolveAssemblyReference.cache
+H:\project\WXMS\WXWeb\obj\Debug\WXWeb.dll
+H:\project\WXMS\WXWeb\obj\Debug\WXWeb.pdb
