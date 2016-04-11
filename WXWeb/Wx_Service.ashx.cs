@@ -31,7 +31,7 @@ namespace WXWeb
                 if (!string.IsNullOrEmpty(echostr))
                 {
                     HttpContext.Current.Response.Write(echostr);
-                    HttpContext.Current.Response.End();
+                    HttpContext.Current.Response.End();//23
                 }
             }
             else
