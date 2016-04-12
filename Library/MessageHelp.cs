@@ -37,7 +37,7 @@ namespace Library
             mDictionary = XmlHelp.Xml2IDictionary(postStr);
 
             //回复的消息
-            string Response = "";
+            string response = "";
             if (mDictionary.ContainsKey("MsgType")) 
             {
                 if (mDictionary["MsgType"] == "event")
@@ -48,10 +48,11 @@ namespace Library
                 else 
                 {
                     //消息
-                    MessageParse.getInstance()
+                    response = MessageParse.getInstance().ParseMessage(mDictionary);
+                    FileTool.Write(response);
                 }
             }
-            return Response;
+            return response;
         }
     }
 }

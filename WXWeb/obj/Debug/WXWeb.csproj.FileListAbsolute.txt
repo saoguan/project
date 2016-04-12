@@ -3,3 +3,12 @@ H:\project\WXMS\WXWeb\bin\WXWeb.pdb
 H:\project\WXMS\WXWeb\obj\Debug\WXWeb.csprojResolveAssemblyReference.cache
 H:\project\WXMS\WXWeb\obj\Debug\WXWeb.dll
 H:\project\WXMS\WXWeb\obj\Debug\WXWeb.pdb
+H:\Project\project\WXWeb\obj\Debug\WXWeb.csprojResolveAssemblyReference.cache
+H:\Project\project\WXWeb\obj\Debug\WXWeb.dll
+H:\Project\project\WXWeb\obj\Debug\WXWeb.pdb
+H:\Project\project\WXWeb\bin\WXWeb.dll
+H:\Project\project\WXWeb\bin\WXWeb.pdb
+H:\Project\project\WXWeb\bin\Library.dll
+H:\Project\project\WXWeb\bin\Model.dll
+H:\Project\project\WXWeb\bin\Library.pdb
+H:\Project\project\WXWeb\bin\Model.pdb

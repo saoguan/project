@@ -40,14 +40,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Message\BaseMessage.cs" />
-    <Compile Include="Message\EventMessage\BaseEventMessage.cs" />
-    <Compile Include="Message\EventMessage\SubscribeEvent.cs" />
-    <Compile Include="Message\ReceiveMessage\BaseReceiveMessage.cs" />
-    <Compile Include="Message\ReceiveMessage\TextMessage.cs" />
-    <Compile Include="Message\ResponseMessage\BaseResponseMessage.cs" />
+    <Compile Include="Message\ResponseMessage\ArticlesMessage.cs" />
+    <Compile Include="Message\ResponseMessage\ImageMessage.cs" />
+    <Compile Include="Message\ResponseMessage\MusicMessage.cs" />
+    <Compile Include="Message\ResponseMessage\NewsMessage.cs" />
+    <Compile Include="Message\ResponseMessage\TextMessage.cs" />
+    <Compile Include="Message\ResponseMessage\VideoMessage.cs" />
+    <Compile Include="Message\ResponseMessage\VoiceMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Message\EventMessage\" />
+    <Folder Include="Message\ReceiveMessage\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

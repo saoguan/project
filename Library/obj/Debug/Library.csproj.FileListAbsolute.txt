@@ -1,0 +1,7 @@
+H:\Project\project\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+H:\Project\project\Library\bin\Debug\Library.dll
+H:\Project\project\Library\bin\Debug\Library.pdb
+H:\Project\project\Library\bin\Debug\Model.dll
+H:\Project\project\Library\bin\Debug\Model.pdb
+H:\Project\project\Library\obj\Debug\Library.dll
+H:\Project\project\Library\obj\Debug\Library.pdb

@@ -43,6 +43,7 @@
     <Compile Include="Parse\EventParse.cs" />
     <Compile Include="Parse\MessageParse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tool\FileTool.cs" />
     <Compile Include="Tool\XmlHelp.cs" />
   </ItemGroup>
   <ItemGroup>
